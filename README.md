@@ -9,29 +9,19 @@
 <h1 align="center">hey there 👋I'm Anqa</h1>
 
 ###
-###
-<h2></h2> Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or opportunities. <h2>
 
+<h2 align="center">Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or opportunities.</h2>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm A passionate Data Engineer with a solid background in computer science. I have foundational knowledge in Big Data and Analytics Engineering and experience in building and maintaining data pipelines and architectures using various cloud services. Additionally, I have a keen interest in developing games using Unity and Unreal Engine<br><br>- 📫 How to reach me: [anqa.hamdan@gmail.com](mailto:anqa.hamdan@gmail.com)
-<br>- 📚  I am currently enhancing my skills in data engineering <br>- 🔍 I am actively searching for a job in the field of data engineering.<br>- ⚡ When I'm not working, I moonlight as a game developer, crafting digital adventures</p>
-
-###
+<p align="left">I'm a passionate Data Engineer with a solid background in computer science. I have foundational knowledge in Big Data and Analytics Engineering and experience in building and maintaining data pipelines and architectures using various cloud services. Additionally, I have a keen interest in developing games using Unity and Unreal Engine.<br><br>- 📫 How to reach me: [anqa.hamdan@gmail.com](mailto:anqa.hamdan@gmail.com)<br>- 📚  I am currently enhancing my skills in data engineering.<br>- 🔍 I am actively searching for a job in the field of data engineering.<br>- ⚡ When I'm not working, I moonlight as a game developer, crafting digital adventures.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -68,14 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-
 <h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anqa-H&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
