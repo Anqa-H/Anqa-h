@@ -14,7 +14,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm a passionate Data Engineer with a solid background in computer science. I have foundational knowledge in Big Data and Analytics Engineering and experience in building and maintaining data pipelines and architectures using various cloud services. Additionally, I have a keen interest in developing games using Unity and Unreal Engine.<br><br>- 📫 How to reach me:anqa.hamdan@gmail.com<br>- 📚  I am currently enhancing my skills in data engineering.<br>- 🔍 I am actively searching for a job in the field of data engineering.<br>- ⚡ When I'm not working, I moonlight as a game developer, crafting digital adventures.</p>
+<p align="left">I'm a passionate Data Engineer with a solid background in computer science. I have foundational knowledge in Big Data and Analytics Engineering and experience in building and maintaining data pipelines and architectures using various cloud services. Additionally, I have a keen interest in developing games using Unity and Unreal Engine.<br><br>- 📫 How to reach me anqa.hamdan@gmail.com<br>- 📚  I am currently enhancing my skills in data engineering.<br>- 🔍 I am actively searching for a job in the field of data engineering.<br>- ⚡ When I'm not working, I moonlight as a game developer, crafting digital adventures.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
