@@ -11,7 +11,7 @@
 ###
 ###
 <h2></h2> Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or opportunities. <h2>
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
